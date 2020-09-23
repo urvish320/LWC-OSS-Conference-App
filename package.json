@@ -3,7 +3,7 @@
     "description": "My amazing LWC app",
     "version": "0.0.1",
     "author": "Urvish Shah",
-    "bugs": "https://github.com/Urvish Shah/conference-app/issues",
+    "bugs": "https://github.com/urvish320/LWC-OSS-Conference-App/issues",
     "dependencies": {
         "compression": "^1.7.4",
         "express": "^4.17.1",
@@ -22,7 +22,7 @@
         "npm": ">=6.4.1",
         "yarn": ">=1.9.4"
     },
-    "homepage": "https://github.com/Urvish Shah/conference-app",
+    "homepage": "https://github.com/urvish320/LWC-OSS-Conference-App",
     "husky": {
         "hooks": {
             "pre-commit": "lint-staged"
